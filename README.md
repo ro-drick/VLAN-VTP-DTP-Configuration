@@ -2,7 +2,7 @@
 
 ## Lab Overview
 In this lab, we will perform the following tasks to configure VLANs, trunking, and VTP modes across three switches, while disabling DTP on specific interfaces. The setup includes various hosts connected to three switches (SW1, SW2, and SW3) within different VLANs. This lab also covers the configuration of VTP modes and the creation and verification of VLAN databases across the switches.
-
+<img src="https://github.com/ro-drick/VLAN-VTP-DTP-Configuration/blob/main/DTP%26VTP.PNG">
 ## Tasks Overview
 
 ### Task 1: Configure Switchports as Trunk Ports
