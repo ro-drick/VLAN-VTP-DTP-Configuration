@@ -95,6 +95,8 @@ SW1# show interfaces switchport  # Verify if DTP is enabled
 - Check VTP mode using show vtp status.
 - Ensure DTP is disabled on trunk ports and access ports using the show interfaces switchport command.
 
+### Conclusion
+This lab provided hands-on experience in configuring VLANs, trunk ports, and VTP modes across a multi-switch network. You learned how to disable DTP, manage VLAN propagation using VTP in different modes, and correctly assign VLANs to host switchports. The lab also demonstrated the importance of understanding the behavior of VTP modes (Server, Client, Transparent) and how they affect VLAN management. Proper verification of trunk and access port configurations is crucial to ensure network efficiency and security.
 ## Acknowledgements
 
 
